@@ -4,7 +4,6 @@
 - 😠 i'm looking to stable fucking gcam for my dumpling!
 - 📫 how to reach me, only telegram.
 
--->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=furkancakmak34x&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### 💻 Environment
