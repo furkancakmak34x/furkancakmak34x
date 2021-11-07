@@ -14,5 +14,5 @@
 [![iOS](https://img.shields.io/badge/MobEnv-iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
 
 ### 📱 Devices
-Pixel 2 XL 4/128 [![Pixel 2 XL](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/)
-Oneplus 5T 8/128 [![Oneplus 5T](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
+[![Pixel 2 XL](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/)
+[![Oneplus 5T](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
