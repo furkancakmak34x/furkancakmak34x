@@ -1,5 +1,5 @@
-- 👋 hi retard, im @furkancakmak34x
-- 😳 i'm always selffucking ...
-- 😔 i'm currently fucking my mido ...
-- 😠 i'm looking to stable gcam for my dumpling ...
+- 👋 hi retard, im @furkancakmak34x.
+- 😳 i'm always stuck 900E.
+- 😔 i'm currently flash protonaosp on my 4/128 taimen.
+- 😠 i'm looking to stable fucking gcam for my dumpling!
 - 📫 how to reach me, only telegram.
