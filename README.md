@@ -4,10 +4,10 @@
 - 😠 i'm looking to stable fucking gcam for my dumpling!
 - 📫 how to reach me, only telegram.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=furkancakmak34x&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=furkancakmak34x&include_all_commits=false&show_icons=true&theme=buefy&count_private=true&hide_border=false" />
 
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/tr-tr/windows/windows-11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com)
