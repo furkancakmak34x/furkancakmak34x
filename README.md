@@ -1,8 +1,4 @@
-- 👋 hi retard, im @furkancakmak34x.
-- 😳 i'm always stuck 900E.
-- 😔 i'm currently flash protonaosp on my 4/128 taimen.
-- 😠 i'm looking to stable fucking gcam for my dumpling!
-- 📫 how to reach me, only telegram.
+- 📫 how to reach me, t.me/furkancakmak34x
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=furkancakmak34x&include_all_commits=false&show_icons=true&theme=buefy&count_private=true&hide_border=false" />
 
