@@ -49,6 +49,21 @@ else Kgg; fi; }
 Kgg
 }
 
+# Count time 
+End_time(){
+KetthucT=$(date +%s)
+TongTG=$(($KetthucT - $BatdauT))
+Gio=$(printf '%d' $((TongTG/3600%24)))
+Phut=$(printf '%d' $((TongTG/60%60)))
+if [ "$Gio" != 0 ];then
+echo "$time: $(printf '%d '$h', %d '$m', %d '$s'.' $((TongTG/3600%24)) $((TongTG/60%60)) $((TongTG%60)))"
+elif [ "$Phut" != 0 ];then
+echo "$time: $(printf '%d '$m', %d '$s'.' $((TongTG/60%60)) $((TongTG%60)))"
+else
+echo "$time: $(printf '%d '$s'.' $((TongTG%60)))"
+fi
+}
+
 # Download packages
 Xu_install(){
 [ "$2" ] && pb="_$2"
