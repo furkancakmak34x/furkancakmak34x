@@ -8,8 +8,8 @@
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
 ### 📱 Devices
-[![Pixel 4 XL](https://img.shields.io/badge/-Pixel%204%20XL-orange)](https://www.store.google.com/)
-[![Pixel 2 XL](https://img.shields.io/badge/Google-Pixel%202%20XL-blue)](https://store.google.com/)
+[![Pixel 4 XL](https://img.shields.io/badge/Google-Pixel%204%20XL-orange)](https://www.store.google.com/)
+[![Pixel 2 XL](https://img.shields.io/badge/Google-Pixel%202%20XL-blue)](https://www.store.google.com/)
 [![Oneplus 5T](https://img.shields.io/badge/Oneplus-5T-red)](https://www.oneplus.com/)
 [![Moto G4 Plus](https://img.shields.io/badge/Moto-G4%20Plus-brightgreen)](https://www.motorola.com/)
 [![General Mobile 5 Plus](https://img.shields.io/badge/General%20Mobile-GM%205%20Plus-yellow)](https://www.generalmobile.com/)
